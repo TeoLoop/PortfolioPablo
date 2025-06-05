@@ -71,7 +71,7 @@ const Contact = () => {
       icon: '💼',
       title: 'LinkedIn',
       value: 'linkedin.com/in/pablo-lopez-sellanes/',
-      link: 'https://www.linkedin.com/in/pablo-l%C3%B3pez-sellanes/'
+      link: 'https://www.linkedin.com/in/pablo-lopez-sellanes/'
     },
     {
       icon: '📍',

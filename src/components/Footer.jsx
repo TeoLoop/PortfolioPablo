@@ -8,7 +8,7 @@ const Footer = () => {
     {
       name: 'LinkedIn',
       icon: '💼',
-      url: 'https://www.linkedin.com/in/pablo-l%C3%B3pez-sellanes/',
+      url: 'https://www.linkedin.com/in/pablo-lopez-sellanes/',
       color: '#0077b5'
     },
     {
