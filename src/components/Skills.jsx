@@ -181,7 +181,7 @@ const Skills = () => {
           </div>
           <div className="summary-card">
             <h3>👥 Liderazgo</h3>
-            <p>Gestión de equipos de hasta 1700+ funcionarios</p>
+            <p>Gestión de equipos de hasta 1700+ Empleados</p>
           </div>
         </div>
       </div>
